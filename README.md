@@ -1,4 +1,4 @@
-# epl_pandas
+# EPL Data
 
 Messing around with fbref EPL data.
 
